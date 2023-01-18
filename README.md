@@ -1,2 +1,2 @@
 # Multifunctional web clock
-## developed using javascript, html and css.
+  Reloj multifuncional, creado usando Javascript, HTML y CSS. Utiliza la API Web de localStorage para almacenar información.
